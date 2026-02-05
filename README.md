@@ -1,28 +1,28 @@
-# 🎄 Kampüs Ağacı (Campus Tree)
+# Kampüs Ağacı (Campus Tree)
 
 > **"Friendships that will warm up the cold of Umuttepe start here!"**
 
 **Kampüs Ağacı** is a digital gift exchange platform designed to bring Kocaeli University students together with the spirit of the New Year. This system allows students to register with their institutional school emails (`@kocaeli.edu.tr`), analyzes their interests, and matches them with the most suitable "campus friend."
 
-🔗 **Live Project:** [www.kampusagaci.com](https://www.kampusagaci.com/)
+ **Live Project:** [www.kampusagaci.com](https://www.kampusagaci.com/)
 
 ---
 
-## 🚀 About the Project
+##  About the Project
 
 This project is not just a raffle application but also a social responsibility initiative aimed at increasing on-campus socialization. Users register securely, create their profiles, and are matched with people who share common tastes thanks to an AI-supported algorithm.
 
-### 🎯 Key Features
+### Key Features
 
-* **🔐 Institutional Verification:** Registration is only possible with verified student emails ending in `@kocaeli.edu.tr`.
-* **👤 Profile Creation:** Detailed user profiles where interests and hobbies are specified.
-* **🤝 Smart Matching:** An automatic matching algorithm that works based on users' tastes.
-* **⏳ Countdown & Announcements:** Countdown timer and information screens for the event process.
-* **📱 Responsive Design:** A modern interface that works perfectly on both mobile and desktop.
+* **Institutional Verification:** Registration is only possible with verified student emails ending in `@kocaeli.edu.tr`.
+* **Profile Creation:** Detailed user profiles where interests and hobbies are specified.
+* **Smart Matching:** An automatic matching algorithm that works based on users' tastes.
+* **Countdown & Announcements:** Countdown timer and information screens for the event process.
+* **Responsive Design:** A modern interface that works perfectly on both mobile and desktop.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 The project was developed using modern web technologies in a performant, secure, and scalable structure.
 
@@ -35,7 +35,7 @@ The project was developed using modern web technologies in a performant, secure,
 
 ---
 
-## ⚙️ How It Works?
+## How It Works?
 
 1.  **Registration & Verification:** Sign up with a student email containing the student number and verify the account via the link sent.
 2.  **Create Profile:** The user enters their interests so the system can make an accurate match.
@@ -44,7 +44,7 @@ The project was developed using modern web technologies in a performant, secure,
 
 ---
 
-## 👨‍💻 Development Team
+## Development Team
 
 This project was developed with love by **Kocaeli University** students.
 
